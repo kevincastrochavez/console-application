@@ -16,7 +16,9 @@ var christmasDay = new DateTime(year, 12, 25).DayOfYear;
 int numberOfDaysUntilChristmas = christmasDay - yearDay;
 
 // 4.Output current date but not time
+Console.WriteLine("");
 Console.WriteLine($"The current date is: {today.ToShortDateString()}");
+Console.WriteLine("");
 
 // 5.Output number of days until Christmas
 if (numberOfDaysUntilChristmas == 0) {
@@ -32,6 +34,7 @@ double width, height, woodLength, glassArea;
 string widthString, heightString;
 
 // 7.Provide appropriate text labels and cause the program to pause in the console
+Console.WriteLine("");
 Console.Write("Enter the width in numbers: ");
 widthString = Console.ReadLine();
 width = double.Parse(widthString);
@@ -45,4 +48,5 @@ glassArea = 2 * (width * height) ;
 Console.WriteLine($"The length of the wood is {woodLength} feet" ) ;
 Console.WriteLine($"The area of the glass is {glassArea}");
 
+Console.WriteLine("Press any key to exit the console");
 Console.ReadKey();
