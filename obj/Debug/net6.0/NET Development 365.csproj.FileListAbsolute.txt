@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/bin/Debug/net6.0/NET Development 365
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/bin/Debug/net6.0/NET Development 365.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/bin/Debug/net6.0/NET Development 365.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/bin/Debug/net6.0/NET Development 365.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/bin/Debug/net6.0/NET Development 365.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/refint/NET Development 365.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/NET Development 365.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/ConsoleApplication/obj/Debug/net6.0/ref/NET Development 365.dll
